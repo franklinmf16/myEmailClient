@@ -1,0 +1,6 @@
+Pane{
+    -fx-padding: 0;
+    -fx-background-color: radial-gradient(center 70% 5%,
+    radius 60%, #99bbff, #ccddff);
+}
+
